@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comvillain-pc.github.io/handbook-oj4a11/sitemap.xml
